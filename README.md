@@ -99,6 +99,7 @@ Technologies:
 
 <p align="center">
   <img height="170em" src="https://github-stats-extended.vercel.app/api?username=kevinsoalheiro&show_icons=true&theme=github_dark" />
+  
   <img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs?username=kevinsoalheiro&langs_count=5&theme=dark_github" />
 </p>
 
