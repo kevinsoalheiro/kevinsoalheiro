@@ -1,4 +1,4 @@
-# Hi, I'm Kevin Soalheiro 👋
+# Olá, Eu sou Kevin Soalheiro 👋
 
 🎓 Estudante de estatística em **Universidade Federal de Minas Gerais (UFMG)**  
 📊 Interessado em **Data Science, Data Analysis and Statistics**  
@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mim
 
 Sou graduando em Estatística pela UFMG e, atualmente, estou desenvolvendo minha formação técnica em programação, análise estatística e ciência de dados.
 
