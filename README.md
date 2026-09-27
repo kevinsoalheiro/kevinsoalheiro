@@ -1,33 +1,33 @@
 # Hi, I'm Kevin Soalheiro 👋
 
-🎓 Statistics student at **Universidade Federal de Minas Gerais (UFMG)**  
-📊 Interested in **Data Science, Data Analysis and Statistics**  
-💻 Currently developing my skills in **Python, R, SQL and C++**  
-🌎 Interested in opportunities involving data, analytics and technology  
+🎓 Estudante de estatística em **Universidade Federal de Minas Gerais (UFMG)**  
+📊 Interessado em **Data Science, Data Analysis and Statistics**  
+💻 Atualmente desenvolvendo minhas habilidades em **Python, R, SQL and C++**  
+🌎 Interessado em oportunidade envolvendo dados, análises e tecnológia.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a Statistics undergraduate at UFMG, currently building my technical background in programming, statistical analysis and data science.
+Sou graduando em Estatística pela UFMG e, atualmente, estou desenvolvendo minha formação técnica em programação, análise estatística e ciência de dados.
 
-My main interests include:
+Meus principais interesses incluem:
 
-- 📊 Statistical Analysis
-- 🐍 Python for Data Analysis
-- 📈 Data Visualization
-- 🗃️ SQL and Databases
-- 🤖 Machine Learning
-- 📉 Exploratory Data Analysis
-- 🔬 Applied Statistics
+- 📊 Análise Estatística
+- 🐍 Python para Análise de Dados
+- 📈 Visualização de Dados
+- 🗃️ SQL e Banco de Dados
+- 🤖 Machine Learning (Aprendizado de Máquina)
+- 📉 Análise Exploratória de Dados
+- 🔬 Estatística Aplicada
 
-I'm currently developing practical projects to apply these concepts to real datasets.
+Atualmente, estou desenvolvendo projetos práticos para aplicar esses conceitos a conjuntos de dados reais.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tecnologias e ferramentas
 
-### Programming
+### Programação
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -41,7 +41,7 @@ I'm currently developing practical projects to apply these concepts to real data
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### Tools
+### Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -105,7 +105,7 @@ Technologies:
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
 
